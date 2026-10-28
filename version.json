@@ -1,7 +1,7 @@
 {
- "web": 25,
+ "web": 26,
  "minShell": 1,
- "bundle": "bundle-25.zip",
- "sha256": "6fb013bf2399172604e91dff34d78b1790786a4b5ccbf3bd12e82a6d109eb228",
+ "bundle": "bundle-26.zip",
+ "sha256": "7cdb9533328a8d6a2374c22aadb36d5b12cbfc1a1cbd3680b4559fedff0a0560",
  "built": "2026-10-28"
 }
